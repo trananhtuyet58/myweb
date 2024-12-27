@@ -2,6 +2,6 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
    <body>
 
-   <p>Book</p>
+   <p>Book 20244444</p>
 </body>
 </html>
